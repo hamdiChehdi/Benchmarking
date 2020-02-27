@@ -1,5 +1,4 @@
 # Benchmarking List.Sort() vs OrderBy
 
-Languages
-
+## Languages
 C#
